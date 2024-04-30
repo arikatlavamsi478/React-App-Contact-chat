@@ -1,7 +1,7 @@
 # Getting Started with Contacts & Chat Application
 
 ### Clone the project
-```git clone https://github.com/VenkateshMogili/contacts-chat-task.git```
+``https://github.com/arikatlavamsi478/React-App-Contact-chat.git)``
 
 #### Change Directory to contacts-chat-task
 ```cd contacts-chat-task```
