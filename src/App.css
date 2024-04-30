@@ -1,0 +1,25 @@
+/* Common/Frequently Used Styles */
+html,
+body,
+*,
+button:focus,
+input:focus {
+	outline: none;
+	box-sizing: border-box;
+}
+.p5 {
+	padding: 5px;
+}
+.m5 {
+	margin: 5px;
+}
+.p10 {
+	padding: 10px;
+}
+.m10 {
+	margin: 10px;
+}
+.action,
+.add-contact {
+	cursor: pointer;
+}
